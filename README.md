@@ -5,7 +5,7 @@
   <em>Passionate about developing embedded systems and AI projects</em>
 </p>
 
-<img align="right" alt="AI Research" width="350" src="https://tenor.com/bhOSD.gif">
+<img align="right" alt="AI Research" width="350" src="https://reactiongifs.me/wp-content/uploads/2022/05/Work-Hard-Everyday.gif">
 
 ### 🔬 Research & Current Work
 - 🧠 **Currently:** AI R&D Intern at DICE, UM6P - developing **VoiceSense** for healthcare accessibility
