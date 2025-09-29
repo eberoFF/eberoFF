@@ -1,82 +1,83 @@
 <h1 align="center">Hi there 👋, I'm Lyam Rylewski</h1>
-<h3 align="center">Student in Cybersecurity | Personal GitHub</h3>
+<h3 align="center">Cybersecurity Student | Embedded Systems | IoT Security Researcher</h3>
 
 <p align="center">
-  <em>Passionate about developing embedded systems and AI projects</em>
+  <em>Securing the connected world through embedded systems and IoT vulnerability research</em>
 </p>
 
 <img align="right" alt="AI Research" width="350" src="https://reactiongifs.me/wp-content/uploads/2022/05/Work-Hard-Everyday.gif">
 
-### 🔬 Research & Current Work
-- 🧠 **Currently:** AI R&D Intern at DICE, UM6P - developing **VoiceSense** for healthcare accessibility
-- 📄 **Published:** Paper accepted at AICSET 2025 on  Multi-Agent Architecture and voice interfaces for low-resource linguistic settings
-- 🗣️ **Research Focus:** Multilingual NLP, Speech Technologies, AI for Social Good
-- 🏆 **Achievement:** 1st place winner at Orange Summer Challenge 2024
+### 🔒 Current Focus
+- 🎯 **Master CSSE Student** at Université de Bretagne Sud (UBS), Lorient
+- 🛡️ **Specializing in:** Embedded systems security, IoT protocols, hardware reverse engineering
+- 🔍 **Current Project:** AI-powered IoT protocol fuzzing for vulnerability discovery
+- 📚 **Research Interest:** Post-quantum cryptography for embedded devices
 
-### 🌱 Learning & Growth
-- 📚 **Currently learning:** Advanced Transformer Architectures, Voice AI Systems
-- 🎯 **Exploring:** Reinforcement Learning, Neural TTS, Low-resource Language Models
-- 🔍 **Next:** Pursuing PhD opportunities in AI/NLP research
+### 🚀 Technical Projects
+- **16-bit RISC Processor** - Complete VHDL implementation with Harvard architecture
+- **IoT Fuzzing Framework** - Radio protocol fuzzing with ML test generation (in progress)
+- **Smart Home Security** - Raspberry Pi-based domotique system with secure communications
+- **Conference Manager** - C application with double-linked lists for event tracking
+- **PNG Parser** - Low-level binary parsing with 256-color palette support
 
-### 🤝 Collaboration
-- 👥 **Open to:** Research collaborations in AI/NLP, voice technologies, healthcare AI
-- 🌍 **Interested in:** AI for underrepresented communities and social impact projects
-- 💡 **Expertise:** Transformer models, Speech processing, Multilingual AI systems
+### 🛠️ Core Skills
 
-### 📬 Let's Connect
-- 💬 **Ask me about:** Transformer architectures, multilingual NLP, voice AI, research methodologies
-- 📧 **Reach me:** learningbarrouch@gmail.com
-- 🎓 **Fun fact:** Former psychology enthusiast turned AI researcher - I love understanding both human and artificial intelligence!
-
-<h3 align="left">Connect with me:</h3>
+**Security & Cryptography:**
 <p align="left">
-<a href="https://linkedin.com/in/mohammed-barrouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-barrouch" height="30" width="40" /></a>
+<a href="https://www.cryptopp.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openssl/openssl-original.svg" alt="crypto" width="40" height="40"/></a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/></a>
+<a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="40" height="40"/></a>
 </p>
 
-### 🛠️ Technologies & Tools
-
-**AI/ML Frameworks:**
+**Embedded & Hardware:**
 <p align="left">
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+<a href="https://www.vhdl.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/VHDL_logo.svg" alt="vhdl" width="40" height="40"/></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/></a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/></a>
 </p>
 
-**Programming & Data:**
+**Programming Languages:**
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 </p>
 
-**Computer Vision & NLP:**
+**Protocols & Networks:**
 <p align="left">
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-<a href="https://spacy.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="40" height="40"/></a>
-<a href="https://www.nltk.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="nltk" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/CAN_bus" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/CAN_bus_logo.svg" alt="can" width="40" height="40"/></a>
+<a href="https://www.usb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/usborg/usborg-icon.svg" alt="usb" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/RS-232" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/RS-232_connector.svg" alt="rs232" width="40" height="40"/></a>
 </p>
 
-**Infrastructure & Tools:**
+### 📚 Current Studies
+- 🔐 **Applied Cryptography** - Post-quantum algorithms implementation
+- 🏗️ **FPGA Design** - Digital architecture on FPGA targets
+- 📊 **Data Analysis** - Sensor data processing and visualization
+- 🌍 **Industrial Networks** - CAN bus, RS232, USB protocols
+
+### 🎯 Upcoming Challenges
+- **IoT Fuzzing Project** - Extending AI-based test generation for protocol stacks
+- **Post-Quantum Crypto** - 6-page ACM paper on lattice-based algorithms
+- **FPGA Security** - Implementing secure boot mechanisms
+
+### 📬 Let's Connect
+- 💬 **Ask me about:** Embedded security, IoT vulnerabilities, VHDL design, CTF challenges
+- 🔗 **LinkedIn:** [linkedin.com/in/lyam-rylewski](https://linkedin.com/in/lyam-rylewski)
+- 📧 **Email:** lyam.rylewski@univ-ubs.fr
+- 🎓 **Fun fact:** I once implemented a Bubble Shooter game in CAML Light before discovering embedded systems!
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://linkedin.com/in/lyam-rylewski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyam-rylewski" height="30" width="40" /></a>
+<a href="https://github.com/eberoFF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eberoFF" height="30" width="40" /></a>
 </p>
-
-
-### 🎯 Current Projects
-- **VoiceSense**: Real-time AI voice assistant for healthcare in Moroccan Darija
-- **Custom Transformer Models**: From-scratch implementations of GPT-2 and DETR (for learning purposes)
-- **AWALE**: Developping STT model for people with unconventional speech in darija
 
 ---
 <p align="center">
-<em>💡 "The best way to predict the future is to invent it" - Alan Kay</em>
+<em>🔒 "The only secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards" - Gene Spafford</em>
 </p>
 
 <p align="center">
-<em>🌟 Open to research collaborations and exciting AI projects!</em>
+<em>🛡️ Currently seeking internship opportunities in embedded security - June 2025!</em>
 </p>
