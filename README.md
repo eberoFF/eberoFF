@@ -75,7 +75,7 @@
 
 ---
 <p align="center">
-<em>🔒 "The only secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards" - Gene Spafford</em>
+<em>🔒 "The person who says they can and the person who says they can't are usually right." - Confucius </em>
 </p>
 
 <p align="center">
