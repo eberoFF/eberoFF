@@ -16,7 +16,7 @@
 ### 🚀 Technical Projects
 - **16-bit RISC Processor** - Complete VHDL implementation with Harvard architecture
 - **IoT Fuzzing Framework** - Radio protocol fuzzing with ML test generation (in progress)
-- **Smart Home Security** - Raspberry Pi-based domotique system with secure communications
+- **Smart Home Security** - Raspberry Pi-based home automation system with secure communications
 - **Conference Manager** - C application with double-linked lists for event tracking
 - **PNG Parser** - Low-level binary parsing with 256-color palette support
 
