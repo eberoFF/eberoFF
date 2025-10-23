@@ -58,7 +58,6 @@
 
 ### 🎯 Upcoming Challenges
 - **IoT Fuzzing Project** - Extending AI-based test generation for protocol stacks
-- **Post-Quantum Crypto** - 6-page ACM paper on lattice-based algorithms
 - **FPGA Security** - Implementing secure boot mechanisms
 
 ### 📬 Let's Connect
