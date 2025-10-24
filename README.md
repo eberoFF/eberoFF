@@ -69,7 +69,7 @@
 <a href="https://www.linkedin.com/in/lyam-rylewski-b39383245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyam-rylewski" height="30" width="40" /></a>
 <a href="https://github.com/eberoFF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eberoFF" height="30" width="40" /></a>
 </p>
-https://www.univ-ubs.fr/_richText-file/ametys-internal%253Asites/wwwdev/ametys-internal%253Acontents/normes-graphiques-article/_attribute/content/_data/UBS-LOGO-RVB-Fd-Transparent_150x212.png
+<a href="mailto:rylewski.e2100011@etud.univ-ubs.fr" target="blank"><img align="center" src="https://www.univ-ubs.fr/_richText-file/ametys-internal%253Asites/wwwdev/ametys-internal%253Acontents/normes-graphiques-article/_attribute/content/_data/UBS-LOGO-RVB-Fd-Transparent_150x212.png" alt="lyam-rylewski" height="30" width="40" /></a>
 
 ---
 <p align="center">
