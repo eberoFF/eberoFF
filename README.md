@@ -62,7 +62,7 @@
 
 ### 📬 Let's Connect
 - 💬 **Ask me about:** Embedded security, IoT vulnerabilities, VHDL design, CTF challenges
-- **Reach me** href="mailto:rylewski.e2100011@univ-ubs.fr
+- 📧 **Reach me:** rylewski.e2100011@univ-ubs.fr
 - 🎓 **Fun fact:** I once implemented a Bubble Shooter game in CAML Light before discovering embedded systems!
 
 <h3 align="left">Connect with me:</h3>
