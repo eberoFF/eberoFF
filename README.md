@@ -31,7 +31,7 @@
 
 **Embedded & Hardware:**
 <p align="left">
-<a href="https://www.vhdl.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/VHDL_logo.svg" alt="vhdl" width="40" height="40"/></a>
+<a href="https://www.intel.com/content/www/us/en/programmable/customertraining/webex/VHDL/presentation_html5.html" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/638a61921edcd67d5720a25a__MFi-0rEM2Y6219Ky3MT0ee_95o0d6Ah_5hM11khoTE.png" alt="vhdl" width="40" height="40"/></a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/></a>
 </p>
