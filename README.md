@@ -62,13 +62,13 @@
 
 ### 📬 Let's Connect
 - 💬 **Ask me about:** Embedded security, IoT vulnerabilities, VHDL design, CTF challenges
+- **Reach me** href="mailto:rylewski.e2100011@univ-ubs.fr
 - 🎓 **Fun fact:** I once implemented a Bubble Shooter game in CAML Light before discovering embedded systems!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lyam-rylewski-b39383245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyam-rylewski" height="30" width="40" /></a>
 <a href="https://github.com/eberoFF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eberoFF" height="30" width="40" /></a>
-<a href="mailto:rylewski.e2100011@univ-ubs.fr?subject=Demande%20d'information&body=Bonjour,">Contactez-nous</a>" target="blank"><img align="center" src="https://www.univ-ubs.fr/_richText-file/ametys-internal%253Asites/wwwdev/ametys-internal%253Acontents/normes-graphiques-article/_attribute/content/_data/UBS-LOGO-RVB-Fd-Transparent_150x212.png" alt="lyam-rylewski" height="30" width="40" /></a>
 </p>
 <p align="center">
 <em>🔒 "The person who says they can and the person who says they can't are usually right." - Confucius </em>
