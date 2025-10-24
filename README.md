@@ -24,7 +24,7 @@
 
 **Security & Cryptography:**
 <p align="left">
-<a href="https://www.cryptopp.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openssl/openssl-original.svg" alt="crypto" width="40" height="40"/></a>
+<a href="https://www.cryptopp.com/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:C_black_white.svg" alt="crypto" width="40" height="40"/></a>
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/></a>
 <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/nmap-logo-64px.svg" alt="nmap" width="40" height="40"/></a>
 </p>
