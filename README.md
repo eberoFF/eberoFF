@@ -45,7 +45,7 @@
 
 **Protocols & Networks:**
 <p align="left">
-<a href="https://en.wikipedia.org/wiki/CAN_bus" target="_blank" rel="noreferrer"><img src="https://en.wikipedia.org/wiki/CAN_bus#/media/File:CAN_Logo.svg" alt="can" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/CAN_bus" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/CAN_Logo.svg" alt="can" width="40" height="40"/></a>
 <a href="https://www.usb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/usborg/usborg-icon.svg" alt="usb" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/RS-232" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/RS-232_connector.svg" alt="rs232" width="40" height="40"/></a>
 </p>
