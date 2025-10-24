@@ -47,7 +47,7 @@
 <p align="left">
 <a href="https://en.wikipedia.org/wiki/CAN_bus" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/CAN_Logo.svg" alt="can" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/USB_hardware" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/67/USB_icon.svg" alt="usb" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/RS-232" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/RS-232_connector.svg" alt="rs232" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/RS-232" target="_blank" rel="noreferrer"><img src="file:///C:/Users/ebero/Pictures/RS232_connector.svg" alt="rs232" width="40" height="40"/></a>
 </p>
 
 ### 📚 Current Studies
