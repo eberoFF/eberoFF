@@ -70,7 +70,6 @@
 <a href="https://github.com/eberoFF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eberoFF" height="30" width="40" /></a>
 <a href="mailto:rylewski.e2100011@etud.univ-ubs.fr" target="blank"><img align="center" src="https://www.univ-ubs.fr/_richText-file/ametys-internal%253Asites/wwwdev/ametys-internal%253Acontents/normes-graphiques-article/_attribute/content/_data/UBS-LOGO-RVB-Fd-Transparent_150x212.png" alt="lyam-rylewski" height="30" width="40" /></a>
 </p>
----
 <p align="center">
 <em>🔒 "The person who says they can and the person who says they can't are usually right." - Confucius </em>
 </p>
